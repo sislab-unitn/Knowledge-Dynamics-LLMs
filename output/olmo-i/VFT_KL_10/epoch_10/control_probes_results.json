@@ -1,0 +1,11 @@
+{
+    "math": {
+        "exact_match": 0.9015151515151515
+    },
+    "MMLU": {
+        "exact_match": 0.49750747756729813
+    },
+    "SocialIQA": {
+        "exact_match": 0.75
+    }
+}

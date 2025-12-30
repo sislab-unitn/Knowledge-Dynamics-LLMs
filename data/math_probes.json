@@ -1,0 +1,1322 @@
+{
+  "0": {
+    "question": "What is 5 + 1?",
+    "answer": 6,
+    "type": "sum-greater-first"
+  },
+  "1": {
+    "question": "What is 5 - 1?",
+    "answer": 4,
+    "type": "diff"
+  },
+  "2": {
+    "question": "What is 16 + 46?",
+    "answer": 62,
+    "type": "sum-less-first"
+  },
+  "3": {
+    "question": "What is 46 - 16?",
+    "answer": 30,
+    "type": "diff"
+  },
+  "4": {
+    "question": "What is 49 + 49?",
+    "answer": 98,
+    "type": "sum-greater-first"
+  },
+  "5": {
+    "question": "What is 49 - 49?",
+    "answer": 0,
+    "type": "diff"
+  },
+  "6": {
+    "question": "What is 21 + 38?",
+    "answer": 59,
+    "type": "sum-less-first"
+  },
+  "7": {
+    "question": "What is 38 - 21?",
+    "answer": 17,
+    "type": "diff"
+  },
+  "8": {
+    "question": "What is 40 + 4?",
+    "answer": 44,
+    "type": "sum-greater-first"
+  },
+  "9": {
+    "question": "What is 40 - 4?",
+    "answer": 36,
+    "type": "diff"
+  },
+  "10": {
+    "question": "What is 7 + 41?",
+    "answer": 48,
+    "type": "sum-less-first"
+  },
+  "11": {
+    "question": "What is 41 - 7?",
+    "answer": 34,
+    "type": "diff"
+  },
+  "12": {
+    "question": "What is 45 + 5?",
+    "answer": 50,
+    "type": "sum-greater-first"
+  },
+  "13": {
+    "question": "What is 45 - 5?",
+    "answer": 40,
+    "type": "diff"
+  },
+  "14": {
+    "question": "What is 35 + 46?",
+    "answer": 81,
+    "type": "sum-less-first"
+  },
+  "15": {
+    "question": "What is 46 - 35?",
+    "answer": 11,
+    "type": "diff"
+  },
+  "16": {
+    "question": "What is 19 + 19?",
+    "answer": 38,
+    "type": "sum-greater-first"
+  },
+  "17": {
+    "question": "What is 19 - 19?",
+    "answer": 0,
+    "type": "diff"
+  },
+  "18": {
+    "question": "What is 19 + 47?",
+    "answer": 66,
+    "type": "sum-less-first"
+  },
+  "19": {
+    "question": "What is 47 - 19?",
+    "answer": 28,
+    "type": "diff"
+  },
+  "20": {
+    "question": "What is 14 + 11?",
+    "answer": 25,
+    "type": "sum-greater-first"
+  },
+  "21": {
+    "question": "What is 14 - 11?",
+    "answer": 3,
+    "type": "diff"
+  },
+  "22": {
+    "question": "What is 26 + 29?",
+    "answer": 55,
+    "type": "sum-less-first"
+  },
+  "23": {
+    "question": "What is 29 - 26?",
+    "answer": 3,
+    "type": "diff"
+  },
+  "24": {
+    "question": "What is 49 + 35?",
+    "answer": 84,
+    "type": "sum-greater-first"
+  },
+  "25": {
+    "question": "What is 49 - 35?",
+    "answer": 14,
+    "type": "diff"
+  },
+  "26": {
+    "question": "What is 39 + 49?",
+    "answer": 88,
+    "type": "sum-less-first"
+  },
+  "27": {
+    "question": "What is 49 - 39?",
+    "answer": 10,
+    "type": "diff"
+  },
+  "28": {
+    "question": "What is 47 + 6?",
+    "answer": 53,
+    "type": "sum-greater-first"
+  },
+  "29": {
+    "question": "What is 47 - 6?",
+    "answer": 41,
+    "type": "diff"
+  },
+  "30": {
+    "question": "What is 17 + 41?",
+    "answer": 58,
+    "type": "sum-less-first"
+  },
+  "31": {
+    "question": "What is 41 - 17?",
+    "answer": 24,
+    "type": "diff"
+  },
+  "32": {
+    "question": "What is 40 + 29?",
+    "answer": 69,
+    "type": "sum-greater-first"
+  },
+  "33": {
+    "question": "What is 40 - 29?",
+    "answer": 11,
+    "type": "diff"
+  },
+  "34": {
+    "question": "What is 15 + 23?",
+    "answer": 38,
+    "type": "sum-less-first"
+  },
+  "35": {
+    "question": "What is 23 - 15?",
+    "answer": 8,
+    "type": "diff"
+  },
+  "36": {
+    "question": "What is 13 + 2?",
+    "answer": 15,
+    "type": "sum-greater-first"
+  },
+  "37": {
+    "question": "What is 13 - 2?",
+    "answer": 11,
+    "type": "diff"
+  },
+  "38": {
+    "question": "What is 46 + 49?",
+    "answer": 95,
+    "type": "sum-less-first"
+  },
+  "39": {
+    "question": "What is 49 - 46?",
+    "answer": 3,
+    "type": "diff"
+  },
+  "40": {
+    "question": "What is 18 + 5?",
+    "answer": 23,
+    "type": "sum-greater-first"
+  },
+  "41": {
+    "question": "What is 18 - 5?",
+    "answer": 13,
+    "type": "diff"
+  },
+  "42": {
+    "question": "What is 15 + 42?",
+    "answer": 57,
+    "type": "sum-less-first"
+  },
+  "43": {
+    "question": "What is 42 - 15?",
+    "answer": 27,
+    "type": "diff"
+  },
+  "44": {
+    "question": "What is 30 + 1?",
+    "answer": 31,
+    "type": "sum-greater-first"
+  },
+  "45": {
+    "question": "What is 30 - 1?",
+    "answer": 29,
+    "type": "diff"
+  },
+  "46": {
+    "question": "What is 13 + 41?",
+    "answer": 54,
+    "type": "sum-less-first"
+  },
+  "47": {
+    "question": "What is 41 - 13?",
+    "answer": 28,
+    "type": "diff"
+  },
+  "48": {
+    "question": "What is 28 + 0?",
+    "answer": 28,
+    "type": "sum-greater-first"
+  },
+  "49": {
+    "question": "What is 28 - 0?",
+    "answer": 28,
+    "type": "diff"
+  },
+  "50": {
+    "question": "What is 14 + 14?",
+    "answer": 28,
+    "type": "sum-less-first"
+  },
+  "51": {
+    "question": "What is 14 - 14?",
+    "answer": 0,
+    "type": "diff"
+  },
+  "52": {
+    "question": "What is 38 + 15?",
+    "answer": 53,
+    "type": "sum-greater-first"
+  },
+  "53": {
+    "question": "What is 38 - 15?",
+    "answer": 23,
+    "type": "diff"
+  },
+  "54": {
+    "question": "What is 37 + 50?",
+    "answer": 87,
+    "type": "sum-less-first"
+  },
+  "55": {
+    "question": "What is 50 - 37?",
+    "answer": 13,
+    "type": "diff"
+  },
+  "56": {
+    "question": "What is 44 + 9?",
+    "answer": 53,
+    "type": "sum-greater-first"
+  },
+  "57": {
+    "question": "What is 44 - 9?",
+    "answer": 35,
+    "type": "diff"
+  },
+  "58": {
+    "question": "What is 25 + 29?",
+    "answer": 54,
+    "type": "sum-less-first"
+  },
+  "59": {
+    "question": "What is 29 - 25?",
+    "answer": 4,
+    "type": "diff"
+  },
+  "60": {
+    "question": "What is 34 + 34?",
+    "answer": 68,
+    "type": "sum-greater-first"
+  },
+  "61": {
+    "question": "What is 34 - 34?",
+    "answer": 0,
+    "type": "diff"
+  },
+  "62": {
+    "question": "What is 17 + 44?",
+    "answer": 61,
+    "type": "sum-less-first"
+  },
+  "63": {
+    "question": "What is 44 - 17?",
+    "answer": 27,
+    "type": "diff"
+  },
+  "64": {
+    "question": "What is 41 + 24?",
+    "answer": 65,
+    "type": "sum-greater-first"
+  },
+  "65": {
+    "question": "What is 41 - 24?",
+    "answer": 17,
+    "type": "diff"
+  },
+  "66": {
+    "question": "What is 6 + 35?",
+    "answer": 41,
+    "type": "sum-less-first"
+  },
+  "67": {
+    "question": "What is 35 - 6?",
+    "answer": 29,
+    "type": "diff"
+  },
+  "68": {
+    "question": "What is 47 + 8?",
+    "answer": 55,
+    "type": "sum-greater-first"
+  },
+  "69": {
+    "question": "What is 47 - 8?",
+    "answer": 39,
+    "type": "diff"
+  },
+  "70": {
+    "question": "What is 19 + 32?",
+    "answer": 51,
+    "type": "sum-less-first"
+  },
+  "71": {
+    "question": "What is 32 - 19?",
+    "answer": 13,
+    "type": "diff"
+  },
+  "72": {
+    "question": "What is 46 + 46?",
+    "answer": 92,
+    "type": "sum-greater-first"
+  },
+  "73": {
+    "question": "What is 46 - 46?",
+    "answer": 0,
+    "type": "diff"
+  },
+  "74": {
+    "question": "What is 29 + 33?",
+    "answer": 62,
+    "type": "sum-less-first"
+  },
+  "75": {
+    "question": "What is 33 - 29?",
+    "answer": 4,
+    "type": "diff"
+  },
+  "76": {
+    "question": "What is 34 + 26?",
+    "answer": 60,
+    "type": "sum-greater-first"
+  },
+  "77": {
+    "question": "What is 34 - 26?",
+    "answer": 8,
+    "type": "diff"
+  },
+  "78": {
+    "question": "What is 11 + 12?",
+    "answer": 23,
+    "type": "sum-less-first"
+  },
+  "79": {
+    "question": "What is 12 - 11?",
+    "answer": 1,
+    "type": "diff"
+  },
+  "80": {
+    "question": "What is 39 + 4?",
+    "answer": 43,
+    "type": "sum-greater-first"
+  },
+  "81": {
+    "question": "What is 39 - 4?",
+    "answer": 35,
+    "type": "diff"
+  },
+  "82": {
+    "question": "What is 12 + 49?",
+    "answer": 61,
+    "type": "sum-less-first"
+  },
+  "83": {
+    "question": "What is 49 - 12?",
+    "answer": 37,
+    "type": "diff"
+  },
+  "84": {
+    "question": "What is 27 + 7?",
+    "answer": 34,
+    "type": "sum-greater-first"
+  },
+  "85": {
+    "question": "What is 27 - 7?",
+    "answer": 20,
+    "type": "diff"
+  },
+  "86": {
+    "question": "What is 17 + 20?",
+    "answer": 37,
+    "type": "sum-less-first"
+  },
+  "87": {
+    "question": "What is 20 - 17?",
+    "answer": 3,
+    "type": "diff"
+  },
+  "88": {
+    "question": "What is 45 + 35?",
+    "answer": 80,
+    "type": "sum-greater-first"
+  },
+  "89": {
+    "question": "What is 45 - 35?",
+    "answer": 10,
+    "type": "diff"
+  },
+  "90": {
+    "question": "What is 22 + 32?",
+    "answer": 54,
+    "type": "sum-less-first"
+  },
+  "91": {
+    "question": "What is 32 - 22?",
+    "answer": 10,
+    "type": "diff"
+  },
+  "92": {
+    "question": "What is 47 + 36?",
+    "answer": 83,
+    "type": "sum-greater-first"
+  },
+  "93": {
+    "question": "What is 47 - 36?",
+    "answer": 11,
+    "type": "diff"
+  },
+  "94": {
+    "question": "What is 5 + 19?",
+    "answer": 24,
+    "type": "sum-less-first"
+  },
+  "95": {
+    "question": "What is 19 - 5?",
+    "answer": 14,
+    "type": "diff"
+  },
+  "96": {
+    "question": "What is 37 + 22?",
+    "answer": 59,
+    "type": "sum-greater-first"
+  },
+  "97": {
+    "question": "What is 37 - 22?",
+    "answer": 15,
+    "type": "diff"
+  },
+  "98": {
+    "question": "What is 2 + 8?",
+    "answer": 10,
+    "type": "sum-less-first"
+  },
+  "99": {
+    "question": "What is 8 - 2?",
+    "answer": 6,
+    "type": "diff"
+  },
+  "100": {
+    "question": "What is 10 + 4?",
+    "answer": 14,
+    "type": "sum-greater-first"
+  },
+  "101": {
+    "question": "What is 10 - 4?",
+    "answer": 6,
+    "type": "diff"
+  },
+  "102": {
+    "question": "What is 24 + 33?",
+    "answer": 57,
+    "type": "sum-less-first"
+  },
+  "103": {
+    "question": "What is 33 - 24?",
+    "answer": 9,
+    "type": "diff"
+  },
+  "104": {
+    "question": "What is 16 + 7?",
+    "answer": 23,
+    "type": "sum-greater-first"
+  },
+  "105": {
+    "question": "What is 16 - 7?",
+    "answer": 9,
+    "type": "diff"
+  },
+  "106": {
+    "question": "What is 29 + 42?",
+    "answer": 71,
+    "type": "sum-less-first"
+  },
+  "107": {
+    "question": "What is 42 - 29?",
+    "answer": 13,
+    "type": "diff"
+  },
+  "108": {
+    "question": "What is 48 + 7?",
+    "answer": 55,
+    "type": "sum-greater-first"
+  },
+  "109": {
+    "question": "What is 48 - 7?",
+    "answer": 41,
+    "type": "diff"
+  },
+  "110": {
+    "question": "What is 7 + 49?",
+    "answer": 56,
+    "type": "sum-less-first"
+  },
+  "111": {
+    "question": "What is 49 - 7?",
+    "answer": 42,
+    "type": "diff"
+  },
+  "112": {
+    "question": "What is 40 + 39?",
+    "answer": 79,
+    "type": "sum-greater-first"
+  },
+  "113": {
+    "question": "What is 40 - 39?",
+    "answer": 1,
+    "type": "diff"
+  },
+  "114": {
+    "question": "What is 30 + 37?",
+    "answer": 67,
+    "type": "sum-less-first"
+  },
+  "115": {
+    "question": "What is 37 - 30?",
+    "answer": 7,
+    "type": "diff"
+  },
+  "116": {
+    "question": "What is 47 + 34?",
+    "answer": 81,
+    "type": "sum-greater-first"
+  },
+  "117": {
+    "question": "What is 47 - 34?",
+    "answer": 13,
+    "type": "diff"
+  },
+  "118": {
+    "question": "What is 38 + 46?",
+    "answer": 84,
+    "type": "sum-less-first"
+  },
+  "119": {
+    "question": "What is 46 - 38?",
+    "answer": 8,
+    "type": "diff"
+  },
+  "120": {
+    "question": "What is 27 + 19?",
+    "answer": 46,
+    "type": "sum-greater-first"
+  },
+  "121": {
+    "question": "What is 27 - 19?",
+    "answer": 8,
+    "type": "diff"
+  },
+  "122": {
+    "question": "What is 3 + 6?",
+    "answer": 9,
+    "type": "sum-less-first"
+  },
+  "123": {
+    "question": "What is 6 - 3?",
+    "answer": 3,
+    "type": "diff"
+  },
+  "124": {
+    "question": "What is 33 + 17?",
+    "answer": 50,
+    "type": "sum-greater-first"
+  },
+  "125": {
+    "question": "What is 33 - 17?",
+    "answer": 16,
+    "type": "diff"
+  },
+  "126": {
+    "question": "What is 2 + 44?",
+    "answer": 46,
+    "type": "sum-less-first"
+  },
+  "127": {
+    "question": "What is 44 - 2?",
+    "answer": 42,
+    "type": "diff"
+  },
+  "128": {
+    "question": "What is 33 + 6?",
+    "answer": 39,
+    "type": "sum-greater-first"
+  },
+  "129": {
+    "question": "What is 33 - 6?",
+    "answer": 27,
+    "type": "diff"
+  },
+  "130": {
+    "question": "What is 3 + 34?",
+    "answer": 37,
+    "type": "sum-less-first"
+  },
+  "131": {
+    "question": "What is 34 - 3?",
+    "answer": 31,
+    "type": "diff"
+  },
+  "132": {
+    "question": "What is 41 + 35?",
+    "answer": 76,
+    "type": "sum-greater-first"
+  },
+  "133": {
+    "question": "What is 41 - 35?",
+    "answer": 6,
+    "type": "diff"
+  },
+  "134": {
+    "question": "What is 38 + 38?",
+    "answer": 76,
+    "type": "sum-less-first"
+  },
+  "135": {
+    "question": "What is 38 - 38?",
+    "answer": 0,
+    "type": "diff"
+  },
+  "136": {
+    "question": "What is 48 + 3?",
+    "answer": 51,
+    "type": "sum-greater-first"
+  },
+  "137": {
+    "question": "What is 48 - 3?",
+    "answer": 45,
+    "type": "diff"
+  },
+  "138": {
+    "question": "What is 0 + 12?",
+    "answer": 12,
+    "type": "sum-less-first"
+  },
+  "139": {
+    "question": "What is 12 - 0?",
+    "answer": 12,
+    "type": "diff"
+  },
+  "140": {
+    "question": "What is 6 + 4?",
+    "answer": 10,
+    "type": "sum-greater-first"
+  },
+  "141": {
+    "question": "What is 6 - 4?",
+    "answer": 2,
+    "type": "diff"
+  },
+  "142": {
+    "question": "What is 29 + 43?",
+    "answer": 72,
+    "type": "sum-less-first"
+  },
+  "143": {
+    "question": "What is 43 - 29?",
+    "answer": 14,
+    "type": "diff"
+  },
+  "144": {
+    "question": "What is 21 + 1?",
+    "answer": 22,
+    "type": "sum-greater-first"
+  },
+  "145": {
+    "question": "What is 21 - 1?",
+    "answer": 20,
+    "type": "diff"
+  },
+  "146": {
+    "question": "What is 1 + 44?",
+    "answer": 45,
+    "type": "sum-less-first"
+  },
+  "147": {
+    "question": "What is 44 - 1?",
+    "answer": 43,
+    "type": "diff"
+  },
+  "148": {
+    "question": "What is 27 + 1?",
+    "answer": 28,
+    "type": "sum-greater-first"
+  },
+  "149": {
+    "question": "What is 27 - 1?",
+    "answer": 26,
+    "type": "diff"
+  },
+  "150": {
+    "question": "What is 20 + 32?",
+    "answer": 52,
+    "type": "sum-less-first"
+  },
+  "151": {
+    "question": "What is 32 - 20?",
+    "answer": 12,
+    "type": "diff"
+  },
+  "152": {
+    "question": "What is 38 + 32?",
+    "answer": 70,
+    "type": "sum-greater-first"
+  },
+  "153": {
+    "question": "What is 38 - 32?",
+    "answer": 6,
+    "type": "diff"
+  },
+  "154": {
+    "question": "What is 0 + 5?",
+    "answer": 5,
+    "type": "sum-less-first"
+  },
+  "155": {
+    "question": "What is 5 - 0?",
+    "answer": 5,
+    "type": "diff"
+  },
+  "156": {
+    "question": "What is 18 + 14?",
+    "answer": 32,
+    "type": "sum-greater-first"
+  },
+  "157": {
+    "question": "What is 18 - 14?",
+    "answer": 4,
+    "type": "diff"
+  },
+  "158": {
+    "question": "What is 15 + 41?",
+    "answer": 56,
+    "type": "sum-less-first"
+  },
+  "159": {
+    "question": "What is 41 - 15?",
+    "answer": 26,
+    "type": "diff"
+  },
+  "160": {
+    "question": "What is 35 + 31?",
+    "answer": 66,
+    "type": "sum-greater-first"
+  },
+  "161": {
+    "question": "What is 35 - 31?",
+    "answer": 4,
+    "type": "diff"
+  },
+  "162": {
+    "question": "What is 35 + 48?",
+    "answer": 83,
+    "type": "sum-less-first"
+  },
+  "163": {
+    "question": "What is 48 - 35?",
+    "answer": 13,
+    "type": "diff"
+  },
+  "164": {
+    "question": "What is 40 + 36?",
+    "answer": 76,
+    "type": "sum-greater-first"
+  },
+  "165": {
+    "question": "What is 40 - 36?",
+    "answer": 4,
+    "type": "diff"
+  },
+  "166": {
+    "question": "What is 13 + 36?",
+    "answer": 49,
+    "type": "sum-less-first"
+  },
+  "167": {
+    "question": "What is 36 - 13?",
+    "answer": 23,
+    "type": "diff"
+  },
+  "168": {
+    "question": "What is 31 + 8?",
+    "answer": 39,
+    "type": "sum-greater-first"
+  },
+  "169": {
+    "question": "What is 31 - 8?",
+    "answer": 23,
+    "type": "diff"
+  },
+  "170": {
+    "question": "What is 36 + 38?",
+    "answer": 74,
+    "type": "sum-less-first"
+  },
+  "171": {
+    "question": "What is 38 - 36?",
+    "answer": 2,
+    "type": "diff"
+  },
+  "172": {
+    "question": "What is 48 + 14?",
+    "answer": 62,
+    "type": "sum-greater-first"
+  },
+  "173": {
+    "question": "What is 48 - 14?",
+    "answer": 34,
+    "type": "diff"
+  },
+  "174": {
+    "question": "What is 32 + 41?",
+    "answer": 73,
+    "type": "sum-less-first"
+  },
+  "175": {
+    "question": "What is 41 - 32?",
+    "answer": 9,
+    "type": "diff"
+  },
+  "176": {
+    "question": "What is 17 + 11?",
+    "answer": 28,
+    "type": "sum-greater-first"
+  },
+  "177": {
+    "question": "What is 17 - 11?",
+    "answer": 6,
+    "type": "diff"
+  },
+  "178": {
+    "question": "What is 15 + 36?",
+    "answer": 51,
+    "type": "sum-less-first"
+  },
+  "179": {
+    "question": "What is 36 - 15?",
+    "answer": 21,
+    "type": "diff"
+  },
+  "180": {
+    "question": "What is 41 + 29?",
+    "answer": 70,
+    "type": "sum-greater-first"
+  },
+  "181": {
+    "question": "What is 41 - 29?",
+    "answer": 12,
+    "type": "diff"
+  },
+  "182": {
+    "question": "What is 3 + 24?",
+    "answer": 27,
+    "type": "sum-less-first"
+  },
+  "183": {
+    "question": "What is 24 - 3?",
+    "answer": 21,
+    "type": "diff"
+  },
+  "184": {
+    "question": "What is 31 + 19?",
+    "answer": 50,
+    "type": "sum-greater-first"
+  },
+  "185": {
+    "question": "What is 31 - 19?",
+    "answer": 12,
+    "type": "diff"
+  },
+  "186": {
+    "question": "What is 3 + 3?",
+    "answer": 6,
+    "type": "sum-less-first"
+  },
+  "187": {
+    "question": "What is 3 - 3?",
+    "answer": 0,
+    "type": "diff"
+  },
+  "188": {
+    "question": "What is 27 + 8?",
+    "answer": 35,
+    "type": "sum-greater-first"
+  },
+  "189": {
+    "question": "What is 27 - 8?",
+    "answer": 19,
+    "type": "diff"
+  },
+  "190": {
+    "question": "What is 43 + 44?",
+    "answer": 87,
+    "type": "sum-less-first"
+  },
+  "191": {
+    "question": "What is 44 - 43?",
+    "answer": 1,
+    "type": "diff"
+  },
+  "192": {
+    "question": "What is 39 + 3?",
+    "answer": 42,
+    "type": "sum-greater-first"
+  },
+  "193": {
+    "question": "What is 39 - 3?",
+    "answer": 36,
+    "type": "diff"
+  },
+  "194": {
+    "question": "What is 0 + 40?",
+    "answer": 40,
+    "type": "sum-less-first"
+  },
+  "195": {
+    "question": "What is 40 - 0?",
+    "answer": 40,
+    "type": "diff"
+  },
+  "196": {
+    "question": "What is 20 + 12?",
+    "answer": 32,
+    "type": "sum-greater-first"
+  },
+  "197": {
+    "question": "What is 20 - 12?",
+    "answer": 8,
+    "type": "diff"
+  },
+  "198": {
+    "question": "What is 7 + 39?",
+    "answer": 46,
+    "type": "sum-less-first"
+  },
+  "199": {
+    "question": "What is 39 - 7?",
+    "answer": 32,
+    "type": "diff"
+  },
+  "200": {
+    "question": "What is 15 + 8?",
+    "answer": 23,
+    "type": "sum-greater-first"
+  },
+  "201": {
+    "question": "What is 15 - 8?",
+    "answer": 7,
+    "type": "diff"
+  },
+  "202": {
+    "question": "What is 13 + 29?",
+    "answer": 42,
+    "type": "sum-less-first"
+  },
+  "203": {
+    "question": "What is 29 - 13?",
+    "answer": 16,
+    "type": "diff"
+  },
+  "204": {
+    "question": "What is 15 + 10?",
+    "answer": 25,
+    "type": "sum-greater-first"
+  },
+  "205": {
+    "question": "What is 15 - 10?",
+    "answer": 5,
+    "type": "diff"
+  },
+  "206": {
+    "question": "What is 12 + 31?",
+    "answer": 43,
+    "type": "sum-less-first"
+  },
+  "207": {
+    "question": "What is 31 - 12?",
+    "answer": 19,
+    "type": "diff"
+  },
+  "208": {
+    "question": "What is 33 + 23?",
+    "answer": 56,
+    "type": "sum-greater-first"
+  },
+  "209": {
+    "question": "What is 33 - 23?",
+    "answer": 10,
+    "type": "diff"
+  },
+  "210": {
+    "question": "What is 7 + 45?",
+    "answer": 52,
+    "type": "sum-less-first"
+  },
+  "211": {
+    "question": "What is 45 - 7?",
+    "answer": 38,
+    "type": "diff"
+  },
+  "212": {
+    "question": "What is 23 + 6?",
+    "answer": 29,
+    "type": "sum-greater-first"
+  },
+  "213": {
+    "question": "What is 23 - 6?",
+    "answer": 17,
+    "type": "diff"
+  },
+  "214": {
+    "question": "What is 15 + 24?",
+    "answer": 39,
+    "type": "sum-less-first"
+  },
+  "215": {
+    "question": "What is 24 - 15?",
+    "answer": 9,
+    "type": "diff"
+  },
+  "216": {
+    "question": "What is 47 + 11?",
+    "answer": 58,
+    "type": "sum-greater-first"
+  },
+  "217": {
+    "question": "What is 47 - 11?",
+    "answer": 36,
+    "type": "diff"
+  },
+  "218": {
+    "question": "What is 4 + 49?",
+    "answer": 53,
+    "type": "sum-less-first"
+  },
+  "219": {
+    "question": "What is 49 - 4?",
+    "answer": 45,
+    "type": "diff"
+  },
+  "220": {
+    "question": "What is 46 + 20?",
+    "answer": 66,
+    "type": "sum-greater-first"
+  },
+  "221": {
+    "question": "What is 46 - 20?",
+    "answer": 26,
+    "type": "diff"
+  },
+  "222": {
+    "question": "What is 22 + 44?",
+    "answer": 66,
+    "type": "sum-less-first"
+  },
+  "223": {
+    "question": "What is 44 - 22?",
+    "answer": 22,
+    "type": "diff"
+  },
+  "224": {
+    "question": "What is 8 + 4?",
+    "answer": 12,
+    "type": "sum-greater-first"
+  },
+  "225": {
+    "question": "What is 8 - 4?",
+    "answer": 4,
+    "type": "diff"
+  },
+  "226": {
+    "question": "What is 8 + 44?",
+    "answer": 52,
+    "type": "sum-less-first"
+  },
+  "227": {
+    "question": "What is 44 - 8?",
+    "answer": 36,
+    "type": "diff"
+  },
+  "228": {
+    "question": "What is 13 + 13?",
+    "answer": 26,
+    "type": "sum-greater-first"
+  },
+  "229": {
+    "question": "What is 13 - 13?",
+    "answer": 0,
+    "type": "diff"
+  },
+  "230": {
+    "question": "What is 19 + 48?",
+    "answer": 67,
+    "type": "sum-less-first"
+  },
+  "231": {
+    "question": "What is 48 - 19?",
+    "answer": 29,
+    "type": "diff"
+  },
+  "232": {
+    "question": "What is 32 + 9?",
+    "answer": 41,
+    "type": "sum-greater-first"
+  },
+  "233": {
+    "question": "What is 32 - 9?",
+    "answer": 23,
+    "type": "diff"
+  },
+  "234": {
+    "question": "What is 16 + 32?",
+    "answer": 48,
+    "type": "sum-less-first"
+  },
+  "235": {
+    "question": "What is 32 - 16?",
+    "answer": 16,
+    "type": "diff"
+  },
+  "236": {
+    "question": "What is 14 + 0?",
+    "answer": 14,
+    "type": "sum-greater-first"
+  },
+  "237": {
+    "question": "What is 14 - 0?",
+    "answer": 14,
+    "type": "diff"
+  },
+  "238": {
+    "question": "What is 16 + 26?",
+    "answer": 42,
+    "type": "sum-less-first"
+  },
+  "239": {
+    "question": "What is 26 - 16?",
+    "answer": 10,
+    "type": "diff"
+  },
+  "240": {
+    "question": "What is 21 + 11?",
+    "answer": 32,
+    "type": "sum-greater-first"
+  },
+  "241": {
+    "question": "What is 21 - 11?",
+    "answer": 10,
+    "type": "diff"
+  },
+  "242": {
+    "question": "What is 31 + 39?",
+    "answer": 70,
+    "type": "sum-less-first"
+  },
+  "243": {
+    "question": "What is 39 - 31?",
+    "answer": 8,
+    "type": "diff"
+  },
+  "244": {
+    "question": "What is 19 + 2?",
+    "answer": 21,
+    "type": "sum-greater-first"
+  },
+  "245": {
+    "question": "What is 19 - 2?",
+    "answer": 17,
+    "type": "diff"
+  },
+  "246": {
+    "question": "What is 27 + 50?",
+    "answer": 77,
+    "type": "sum-less-first"
+  },
+  "247": {
+    "question": "What is 50 - 27?",
+    "answer": 23,
+    "type": "diff"
+  },
+  "248": {
+    "question": "What is 46 + 10?",
+    "answer": 56,
+    "type": "sum-greater-first"
+  },
+  "249": {
+    "question": "What is 46 - 10?",
+    "answer": 36,
+    "type": "diff"
+  },
+  "250": {
+    "question": "What is 16 + 20?",
+    "answer": 36,
+    "type": "sum-less-first"
+  },
+  "251": {
+    "question": "What is 20 - 16?",
+    "answer": 4,
+    "type": "diff"
+  },
+  "252": {
+    "question": "What is 4 + 3?",
+    "answer": 7,
+    "type": "sum-greater-first"
+  },
+  "253": {
+    "question": "What is 4 - 3?",
+    "answer": 1,
+    "type": "diff"
+  },
+  "254": {
+    "question": "What is 21 + 37?",
+    "answer": 58,
+    "type": "sum-less-first"
+  },
+  "255": {
+    "question": "What is 37 - 21?",
+    "answer": 16,
+    "type": "diff"
+  },
+  "256": {
+    "question": "What is 29 + 0?",
+    "answer": 29,
+    "type": "sum-greater-first"
+  },
+  "257": {
+    "question": "What is 29 - 0?",
+    "answer": 29,
+    "type": "diff"
+  },
+  "258": {
+    "question": "What is 12 + 44?",
+    "answer": 56,
+    "type": "sum-less-first"
+  },
+  "259": {
+    "question": "What is 44 - 12?",
+    "answer": 32,
+    "type": "diff"
+  },
+  "260": {
+    "question": "What is 27 + 18?",
+    "answer": 45,
+    "type": "sum-greater-first"
+  },
+  "261": {
+    "question": "What is 27 - 18?",
+    "answer": 9,
+    "type": "diff"
+  },
+  "262": {
+    "question": "What is 44 + 50?",
+    "answer": 94,
+    "type": "sum-less-first"
+  },
+  "263": {
+    "question": "What is 50 - 44?",
+    "answer": 6,
+    "type": "diff"
+  }
+}

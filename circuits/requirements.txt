@@ -1,0 +1,23 @@
+better_abc
+circuitsvis
+cmapy
+dataclasses_json
+datasets
+einops
+fancy_einsum
+git+https://github.com/hannamw/EAP-IG.git@795f560
+huggingface_hub
+jaxtyping
+matplotlib
+networkx
+pandas
+plotly
+pytest
+rich
+torch
+torchtyping
+tqdm
+transformer-lens
+transformers
+wandb
+#conda install --channel conda-forge pygraphviz

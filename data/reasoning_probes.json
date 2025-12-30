@@ -1,0 +1,902 @@
+[
+  {
+    "context": "Jesse took years to complete college but finally got his degree.",
+    "question": "What will Jesse want to do next?",
+    "answerA": "enroll in college",
+    "answerB": "get a job next",
+    "answerC": "pay for college",
+    "answer": "2",
+    "type": "easy"
+  },
+  {
+    "context": "Jordan won a car and could not believe his luck.",
+    "question": "How would Jordan feel afterwards?",
+    "answerA": "thrilled",
+    "answerB": "upset",
+    "answerC": "angry",
+    "answer": "1",
+    "type": "easy"
+  },
+  {
+    "context": "Alex took care of the children after school so that their parents could continue to work.",
+    "question": "What will Alex want to do next?",
+    "answerA": "go home",
+    "answerB": "play games with the kids",
+    "answerC": "fight the parents",
+    "answer": "2",
+    "type": "easy"
+  },
+  {
+    "context": "Bailey felt bad for being late for her doctor appointment.",
+    "question": "What will Bailey want to do next?",
+    "answerA": "ask for an apology next",
+    "answerB": "be on time next time",
+    "answerC": "go to the dentist next",
+    "answer": "2",
+    "type": "easy"
+  },
+  {
+    "context": "Cameron interpreted science in terms everyone in the class could understand.",
+    "question": "Why did Cameron do this?",
+    "answerA": "did this to withhold information",
+    "answerB": "did this to share information",
+    "answerC": "encourage the class",
+    "answer": "2",
+    "type": "easy"
+  },
+  {
+    "context": "Jesse went to far when he yelled at his students and pondered over it all evening after school.",
+    "question": "How would Jesse feel afterwards?",
+    "answerA": "As a teacher who cares about their students",
+    "answerB": "regretful afterwards",
+    "answerC": "bad about their reaction",
+    "answer": "2",
+    "type": "easy"
+  },
+  {
+    "context": "Jordan had a hard time empathizing with other people around them.",
+    "question": "How would you describe Jordan?",
+    "answerA": "The people empathizing to hard time",
+    "answerB": "living in a bubble",
+    "answerC": "a good listener",
+    "answer": "2",
+    "type": "easy"
+  },
+  {
+    "context": "Tracy had excellent credit so she decided to buy the old house on the street.",
+    "question": "What does Tracy need to do before this?",
+    "answerA": "Rebuild the house",
+    "answerB": "Talk to a realtor",
+    "answerC": "Tear the house down",
+    "answer": "2",
+    "type": "easy"
+  },
+  {
+    "context": "Taylor's friends elected her to lead the planning of the girls only trip in May.",
+    "question": "What will the friends want to do next?",
+    "answerA": "thank Tootsie",
+    "answerB": "go on the trip in May",
+    "answerC": "go on the trip in July",
+    "answer": "2",
+    "type": "easy"
+  },
+  {
+    "context": "Robin pulled Carson over for speeding and then didnt write him a ticket.",
+    "question": "Why did Robin do this?",
+    "answerA": "thought he was cute",
+    "answerB": "issue a warning",
+    "answerC": "hated him",
+    "answer": "2",
+    "type": "easy"
+  },
+  {
+    "context": "austin went to the restaurant for dinner but wanted dessert instead.",
+    "question": "What will Austin want to do next?",
+    "answerA": "leave the restaurant",
+    "answerB": "not eat anything",
+    "answerC": "order dessert",
+    "answer": "3",
+    "type": "easy"
+  },
+  {
+    "context": "Alex was looking for a knife they dropped. Alex searched the woods.",
+    "question": "How would Alex feel afterwards?",
+    "answerA": "sad",
+    "answerB": "cheerful",
+    "answerC": "enlightened",
+    "answer": "1",
+    "type": "easy"
+  },
+  {
+    "context": "Riley and their friend were best friends.",
+    "question": "What will happen to Others?",
+    "answerA": "share happiness with their friend",
+    "answerB": "share sadness with their friend",
+    "answerC": "have fun doing things with Riley",
+    "answer": "1",
+    "type": "easy"
+  },
+  {
+    "context": "Jesse set Robin's house on fire when Robin would not run away with him.",
+    "question": "What will happen to Jesse?",
+    "answerA": "be loved by Robin",
+    "answerB": "call the fire department",
+    "answerC": "be sent to jail",
+    "answer": "3",
+    "type": "easy"
+  },
+  {
+    "context": "As it was part of his duties, Alex carried Robin into the execution.",
+    "question": "What will Alex want to do next?",
+    "answerA": "help Robin get free",
+    "answerB": "secured for execution",
+    "answerC": "wanted to perform honorably",
+    "answer": "2",
+    "type": "easy"
+  },
+  {
+    "context": "jan went to the same school for years so she was best friends with a girl.",
+    "question": "What will Others want to do next?",
+    "answerA": "appreciate jan",
+    "answerB": "make sure they kept up their relationship",
+    "answerC": "hate jan",
+    "answer": "2",
+    "type": "easy"
+  },
+  {
+    "context": "Lee made copies so that everyone at the table could follow along.",
+    "question": "What will Lee want to do next?",
+    "answerA": "keep all the copies",
+    "answerB": "find a copy machine",
+    "answerC": "make sure there are enough",
+    "answer": "3",
+    "type": "easy"
+  },
+  {
+    "context": "Bailey spent a lot of time studying and working hard before taking an exam.",
+    "question": "How would Bailey feel afterwards?",
+    "answerA": "intelligent",
+    "answerB": "relieved",
+    "answerC": "uncomfortable",
+    "answer": "1",
+    "type": "easy"
+  },
+  {
+    "context": "Riley looked at Jesse.",
+    "question": "What will Riley want to do next?",
+    "answerA": "Question: At the awards dinner, Riley looked at Jesse with admiration. Why did Riley do this?   Jesse had won the top prize for the company and the team",
+    "answerB": "had planned the awards dinner and it had gone very smoothly",
+    "answerC": "Look at something else",
+    "answer": "3",
+    "type": "easy"
+  },
+  {
+    "context": "Robin took the Math test at face value because it was based on logic.",
+    "question": "How would Robin feel afterwards?",
+    "answerA": "smart",
+    "answerB": "unprepared",
+    "answerC": "lazy",
+    "answer": "1",
+    "type": "easy"
+  },
+  {
+    "context": "Riley knew she could not beat Kendall, but she had no alternative, so she fought Kendall in a battle.",
+    "question": "What will happen to Riley?",
+    "answerA": "get a trophy for winning the boxing match",
+    "answerB": "remain unbeaten",
+    "answerC": "suffer a loss",
+    "answer": "3",
+    "type": "easy"
+  },
+  {
+    "context": "Jordan took Kendall to the pet store so she could buy her a fish.",
+    "question": "What will Kendall want to do next?",
+    "answerA": "go to the lake",
+    "answerB": "help her pick a fish",
+    "answerC": "take the fish straight home",
+    "answer": "3",
+    "type": "easy"
+  },
+  {
+    "context": "Addison invited Austin to join the soccer club at the school.",
+    "question": "How would Austin feel as a result?",
+    "answerA": "jealous of Addison",
+    "answerB": "upset about it",
+    "answerC": "interested in joining",
+    "answer": "3",
+    "type": "easy"
+  },
+  {
+    "context": "Jesse and Robin had been fighting so Jesse set Robin's hair on fire.",
+    "question": "Why did Jesse do this?",
+    "answerA": "they were happy with them",
+    "answerB": "they were mad at them",
+    "answerC": "good",
+    "answer": "2",
+    "type": "easy"
+  },
+  {
+    "context": "Cameron continued playing with the ball even after it became deflated.",
+    "question": "What does Cameron need to do before this?",
+    "answerA": "get a stick",
+    "answerB": "run inside",
+    "answerC": "find a ball",
+    "answer": "3",
+    "type": "easy"
+  },
+  {
+    "context": "taylor's child was sick in the hospital and taylor told quinn she would keep her posted.",
+    "question": "What will happen to Taylor?",
+    "answerA": "she will get details",
+    "answerB": "talk to friends for support",
+    "answerC": "be wracked with worry",
+    "answer": "1",
+    "type": "easy"
+  },
+  {
+    "context": "Robin has the power to fire anybody working on their team.",
+    "question": "How would Others feel as a result?",
+    "answerA": "in command",
+    "answerB": "powerful",
+    "answerC": "exposed",
+    "answer": "3",
+    "type": "easy"
+  },
+  {
+    "context": "Skylar starting crying while her and her dog played together for the last time.",
+    "question": "Why did Skylar do this?",
+    "answerA": "be sad about her failed test grade",
+    "answerB": "be sad about moving far away",
+    "answerC": "hug the dog",
+    "answer": "2",
+    "type": "easy"
+  },
+  {
+    "context": "Quinn wrapped their arms around Jordan before pulling out the gift that they had been hiding.",
+    "question": "What does Quinn need to do before this?",
+    "answerA": "pick out a gift for Jordan",
+    "answerB": "be caring",
+    "answerC": "hold the gift in plain sight",
+    "answer": "1",
+    "type": "easy"
+  },
+  {
+    "context": "Tracy threw a fit on the couch while watching the history channel because they got a lot of details wrong.",
+    "question": "Why did Tracy do this?",
+    "answerA": "tracy who has through watching the history channel",
+    "answerB": "prove that they know the truth",
+    "answerC": "tracy who has got alot of details wrong",
+    "answer": "2",
+    "type": "easy"
+  },
+  {
+    "context": "Aubrey lived in Carson's environment, which was uncomfortable and filthy and something to be avoided.",
+    "question": "How would you describe Aubrey?",
+    "answerA": "disgusted",
+    "answerB": "someone who has no food",
+    "answerC": "someone who has no options",
+    "answer": "1",
+    "type": "easy"
+  },
+  {
+    "context": "Robin left food out for the animals in her backyard to come and enjoy.",
+    "question": "What will Robin want to do next?",
+    "answerA": "chase the animals away",
+    "answerB": "watch the animals eat",
+    "answerC": "go out in the backyard",
+    "answer": "2",
+    "type": "easy"
+  },
+  {
+    "context": "Alex and his brother didn't have much in common. They went on a camping trip and Alex grew closer to their brother.",
+    "question": "How would Others feel as a result?",
+    "answerA": "lonely",
+    "answerB": "happy",
+    "answerC": "upset",
+    "answer": "2",
+    "type": "easy"
+  },
+  {
+    "context": "Jan lit a fire under her coworkers because they wanted to start a fight.",
+    "question": "What will Jan want to do next?",
+    "answerA": "a trouble maker",
+    "answerB": "keep quiet",
+    "answerC": "get everyone angry",
+    "answer": "3",
+    "type": "easy"
+  },
+  {
+    "context": "Robin was very good at playing the flute and could play it long.",
+    "question": "What does Robin need to do before this?",
+    "answerA": "Practice breathing exercises",
+    "answerB": "Skip days of practice",
+    "answerC": "find a manager",
+    "answer": "1",
+    "type": "easy"
+  },
+  {
+    "context": "Taylor caught their boyfriend sending texts to another girl.",
+    "question": "What will Taylor want to do next?",
+    "answerA": "see if their boyfriend was sneaking around",
+    "answerB": "ignore the problem",
+    "answerC": "confront their boyfriend",
+    "answer": "3",
+    "type": "easy"
+  },
+  {
+    "context": "Tracy received a promotion after she worked long hard hours for the past few months.",
+    "question": "What will Tracy want to do next?",
+    "answerA": "quit her job to travel",
+    "answerB": "take a vacation",
+    "answerC": "focus on work",
+    "answer": "2",
+    "type": "easy"
+  },
+  {
+    "context": "Kendall kept the conversation going by asking opened ended questions.",
+    "question": "What answers will the others respond with?",
+    "answerA": "walk out of the room",
+    "answerB": "all grow silent",
+    "answerC": "answer with other questions",
+    "answer": "3",
+    "type": "easy"
+  },
+  {
+    "context": "Quinn got a new job in a different town so they moved to a new house.",
+    "question": "What will Quinn want to do next?",
+    "answerA": "welcome",
+    "answerB": "unpack his things",
+    "answerC": "reload his things",
+    "answer": "2",
+    "type": "easy"
+  },
+  {
+    "context": "When Austin kissed Riley on the mouth, she slipped her gum into his.",
+    "question": "What will Austin want to do next?",
+    "answerA": "make out with Riley",
+    "answerB": "spit out the gum",
+    "answerC": "buy more gum",
+    "answer": "1",
+    "type": "easy"
+  },
+  {
+    "context": "Austin wrapped their jacket around their waist to free their hands to help move boxes.",
+    "question": "What will Austin want to do next?",
+    "answerA": "did not want to be restrained by a jacket",
+    "answerB": "wanted to move about freely",
+    "answerC": "pick up boxes for others",
+    "answer": "3",
+    "type": "easy"
+  },
+  {
+    "context": "Remy decided enough was enough after only attempting the challenge once.",
+    "question": "How would you describe Remy?",
+    "answerA": "Satisfied",
+    "answerB": "resilient",
+    "answerC": "a failure",
+    "answer": "3",
+    "type": "easy"
+  },
+  {
+    "context": "Taylor attended their father's funeral after he passed away from cancer.",
+    "question": "What does Taylor need to do before this?",
+    "answerA": "honor their father",
+    "answerB": "mourn their father",
+    "answerC": "travel to the funeral",
+    "answer": "3",
+    "type": "easy"
+  },
+  {
+    "context": "Sydney guessed you could say that Sydney loved teaching and teaches chemistry.",
+    "question": "What will the students want to do next?",
+    "answerA": "The students will report Sydney to the dean",
+    "answerB": "The students will all drop out of Sydney's class",
+    "answerC": "their favorite teacher",
+    "answer": "3",
+    "type": "easy"
+  },
+  {
+    "context": "Riley's ex was secretly cheating on them and Aubrey knew but never told Riley.  Aubrey was glad when Riley finished with them.",
+    "question": "Why did Aubrey do this?",
+    "answerA": "save Riley from hurt",
+    "answerB": "never again get back together",
+    "answerC": "never be back together again",
+    "answer": "1",
+    "type": "easy"
+  },
+  {
+    "context": "Cameron got out of their way when they were walking by.",
+    "question": "How would Others feel as a result?",
+    "answerA": "fearful and paranoid",
+    "answerB": "quite respected",
+    "answerC": "very lonely",
+    "answer": "2",
+    "type": "easy"
+  },
+  {
+    "context": "Austin took them out for a fancy dinner for their anniversary.",
+    "question": "What does Austin need to do before this?",
+    "answerA": "get dessert",
+    "answerB": "open a restaurant before this",
+    "answerC": "invite them before this",
+    "answer": "3",
+    "type": "easy"
+  },
+  {
+    "context": "Cameron's friends were running outside and Cameron got out of their way.",
+    "question": "Why did Cameron do this?",
+    "answerA": "learn to be safe",
+    "answerB": "not be in their path",
+    "answerC": "stay safe",
+    "answer": "3",
+    "type": "easy"
+  },
+  {
+    "context": "Kai was not happy with how things were going, and Cameron took Kai's complaint seriously.",
+    "question": "How would Cameron feel afterwards?",
+    "answerA": "Trustworthy",
+    "answerB": "indifferent",
+    "answerC": "like a good friend",
+    "answer": "3",
+    "type": "easy"
+  },
+  {
+    "context": "Lee sold things to the others and they were happy with their purchases.",
+    "question": "What will Others want to do next?",
+    "answerA": "The others will complain next",
+    "answerB": "proud",
+    "answerC": "buy more next",
+    "answer": "3",
+    "type": "easy"
+  },
+  {
+    "context": "Taylor was trying to speak but was being talked over, so Taylor got louder as they raised their voice.",
+    "question": "What will Taylor want to do next?",
+    "answerA": "Burst in laughter",
+    "answerB": "Become irritated",
+    "answerC": "proud",
+    "answer": "2",
+    "type": "hard"
+  },
+  {
+    "context": "Riley fought Kendall in a battle after they had an argument.",
+    "question": "What does Riley need to do before this?",
+    "answerA": "apologize to Kendall",
+    "answerB": "find some good weapons",
+    "answerC": "send Kendall flowers",
+    "answer": "2",
+    "type": "hard"
+  },
+  {
+    "context": "Jesse shook Cameron's head slightly left and right, making sure her muscle strain wasn't too bad.",
+    "question": "How would Jesse feel afterwards?",
+    "answerA": "skillful",
+    "answerB": "ok",
+    "answerC": "ok",
+    "answer": "1",
+    "type": "hard"
+  },
+  {
+    "context": "Austin just proved a way to predict cancer rates irrefutably.",
+    "question": "What will Others want to do next?",
+    "answerA": "share this knowledge with others",
+    "answerB": "Laugh at Austin's accomplishment",
+    "answerC": "Hire Austin for cancer research",
+    "answer": "3",
+    "type": "hard"
+  },
+  {
+    "context": "Skylar got a cast on her leg because they were in a car accident.",
+    "question": "What will Skylar want to do next?",
+    "answerA": "lay in bed",
+    "answerB": "get into another accident",
+    "answerC": "better",
+    "answer": "1",
+    "type": "hard"
+  },
+  {
+    "context": "Addison was at the shop and picked up groceries the other day then drove them back home and put them in the frigdge and cupboards.",
+    "question": "Why did Addison do this?",
+    "answerA": "Plan dinner",
+    "answerB": "was hungry",
+    "answerC": "Store the grocery bags",
+    "answer": "1",
+    "type": "hard"
+  },
+  {
+    "context": "Quinn's friend got dumped by their partner but Quinn was not sympathetic infact they rubbed salt in the would.",
+    "question": "How would you describe Quinn?",
+    "answerA": "cruel",
+    "answerB": "kind",
+    "answerC": "wonderful",
+    "answer": "1",
+    "type": "hard"
+  },
+  {
+    "context": "Casey decided to learn about cooking so she took a Saturday evening cooking class instead of spending time with her boyfriend.",
+    "question": "How would Others feel as a result?",
+    "answerA": "excited to date a good cook",
+    "answerB": "like they are cooking too",
+    "answerC": "inattentive to the needs of her boyfriend at time",
+    "answer": "3",
+    "type": "hard"
+  },
+  {
+    "context": "There was a thunderstorm and Skylar's kids were scared. She made them hot chocolate and read them a story to ease their minds.",
+    "question": "What did Skylar do?",
+    "answerA": "tuck them into bed",
+    "answerB": "made her kids hot chocolate",
+    "answerC": "have them go to sleep",
+    "answer": "2",
+    "type": "hard"
+  },
+  {
+    "context": "Cameron's best friend Robin was flying to visit Cameron, so Cameron had to go pick them up from the airport.",
+    "question": "What will happen to Cameron?",
+    "answerA": "be thanked by Robin",
+    "answerB": "take a cab home",
+    "answerC": "buy a plane ticket",
+    "answer": "1",
+    "type": "hard"
+  },
+  {
+    "context": "Tracy didn't go home that evening and resisted Riley's attacks.",
+    "question": "What does Tracy need to do before this?",
+    "answerA": "make a new plan",
+    "answerB": "Go home and see Riley",
+    "answerC": "Find somewhere to go",
+    "answer": "3",
+    "type": "hard"
+  },
+  {
+    "context": "Quinn got into a fight with a friend bringing up the past and rubbed salt in the wound.",
+    "question": "How would Quinn's friend feel as a result?",
+    "answerA": "forgiving",
+    "answerB": "upset",
+    "answerC": "unsure",
+    "answer": "2",
+    "type": "hard"
+  },
+  {
+    "context": "Remy said he was the best chess player in the city, but Austin knew he was better.",
+    "question": "What will happen to Austin?",
+    "answerA": "lose to Jose",
+    "answerB": "enjoy playing chess",
+    "answerC": "enjoy playing checkers",
+    "answer": "2",
+    "type": "hard"
+  },
+  {
+    "context": "Taylor gave their friend a hug in front of all the others.",
+    "question": "What will Others want to do next?",
+    "answerA": "they need their friend's consent",
+    "answerB": "not touch anyone",
+    "answerC": "watch Tracy",
+    "answer": "3",
+    "type": "hard"
+  },
+  {
+    "context": "The people bullied Sasha all her life. But Sasha got revenge on the people.",
+    "question": "What will the people want to do next?",
+    "answerA": "do whatever Sasha says",
+    "answerB": "get even",
+    "answerC": "flee from Sasha",
+    "answer": "3",
+    "type": "hard"
+  },
+  {
+    "context": "remy had a good talk with aubrey so aubrey understood remy better now.",
+    "question": "How would Remy feel as a result?",
+    "answerA": "unsatisfied",
+    "answerB": "calm",
+    "answerC": "anxious",
+    "answer": "2",
+    "type": "hard"
+  },
+  {
+    "context": "Casey saved some money by working overtime to go on a vacation.",
+    "question": "How would Casey feel afterwards?",
+    "answerA": "proud of the hard work",
+    "answerB": "inadequate for the work done",
+    "answerC": "very disappointed",
+    "answer": "1",
+    "type": "hard"
+  },
+  {
+    "context": "Aubrey met a friend at the park and they decided to go play baseball.",
+    "question": "What will happen to Others?",
+    "answerA": "will watch the game",
+    "answerB": "will hit the ball",
+    "answerC": "have a lot of fun",
+    "answer": "1",
+    "type": "hard"
+  },
+  {
+    "context": "Taylor taught math in the schools after studying to be a teacher for four years.",
+    "question": "What does Taylor need to do before this?",
+    "answerA": "get a certificate",
+    "answerB": "teach small children",
+    "answerC": "work in a school",
+    "answer": "1",
+    "type": "hard"
+  },
+  {
+    "context": "There is alot of people here hollering but Quinn enjoyed the show anyway.",
+    "question": "What will happen to Quinn?",
+    "answerA": "ignore the loud people",
+    "answerB": "regret not staying home",
+    "answerC": "laugh at bad people",
+    "answer": "1",
+    "type": "hard"
+  },
+  {
+    "context": "Kendall said that nobody was to use their phone. Jesse used Kendall's phone anyway.",
+    "question": "What will Kendall want to do next?",
+    "answerA": "steal Kendall's phone",
+    "answerB": "compliment Jesse",
+    "answerC": "lock their phone",
+    "answer": "3",
+    "type": "hard"
+  },
+  {
+    "context": "Riley was the best of friends with the boy and the others were relieved they had someone to lean on.",
+    "question": "What will Others want to do next?",
+    "answerA": "talk with the boy",
+    "answerB": "relax about them next",
+    "answerC": "help the boy",
+    "answer": "1",
+    "type": "hard"
+  },
+  {
+    "context": "Jesse was taking a class and he really admired his professor. To impress them, Jesse studied a lot, and as a result, Jesse did well on the test and his professor congratulated him.",
+    "question": "How would Jesse feel afterwards?",
+    "answerA": "Accomplished",
+    "answerB": "focused and driven to succeed in class",
+    "answerC": "hard working and dedicated to their work",
+    "answer": "1",
+    "type": "hard"
+  },
+  {
+    "context": "Sydney provided Aubrey an estimate of the price for building the house.",
+    "question": "What will Sydney want to do next?",
+    "answerA": "decline to build the house due to the high estimate",
+    "answerB": "decide who to choose to build the house",
+    "answerC": "make requested changes to the plans",
+    "answer": "3",
+    "type": "hard"
+  },
+  {
+    "context": "After she graduated, Jordan would teach English in schools.",
+    "question": "What does Jordan need to do before this?",
+    "answerA": "forge her college transcripts to get a job interview",
+    "answerB": "start teaching sooner",
+    "answerC": "get an internship at the school to get more work experience",
+    "answer": "3",
+    "type": "hard"
+  },
+  {
+    "context": "The man commented inappropriately on the outfit that Sasha was wearing that day.",
+    "question": "What will Sasha want to do next?",
+    "answerA": "walk away",
+    "answerB": "confront the man",
+    "answerC": "smile at the man",
+    "answer": "1",
+    "type": "hard"
+  },
+  {
+    "context": "Kai gave Sydney a push in the right direction, and soon Sydney has a successful career.",
+    "question": "How would Kai feel afterwards?",
+    "answerA": "angry to have helped",
+    "answerB": "happy to have helped",
+    "answerC": "supportive of Sydney",
+    "answer": "2",
+    "type": "hard"
+  },
+  {
+    "context": "Lee left a mess upon Ash and had to clean the mess for a few hours.",
+    "question": "What will happen to Ash?",
+    "answerA": "get yelled at",
+    "answerB": "sad now",
+    "answerC": "clean up the next mess",
+    "answer": "3",
+    "type": "hard"
+  },
+  {
+    "context": "Addison had run away from the school after being bullied.",
+    "question": "What will Others want to do next?",
+    "answerA": "safe",
+    "answerB": "call Addison's parents",
+    "answerC": "punish Addison",
+    "answer": "2",
+    "type": "hard"
+  },
+  {
+    "context": "Cameron had read a book about the crusades and knew enough about the subject.",
+    "question": "Why did Cameron do this?",
+    "answerA": "spend time reading books",
+    "answerB": "learn about baking cookies",
+    "answerC": "teach others about the crusades",
+    "answer": "3",
+    "type": "hard"
+  },
+  {
+    "context": "Alex left Robin's side so she could go make a phone call.",
+    "question": "What will Alex want to do next?",
+    "answerA": "be alone",
+    "answerB": "run away from Robin",
+    "answerC": "give people an update",
+    "answer": "1",
+    "type": "hard"
+  },
+  {
+    "context": "Sydney gave a raise to all of the people that worked at her company.",
+    "question": "What will Others want to do next?",
+    "answerA": "quit their job",
+    "answerB": "get another raise",
+    "answerC": "be lazy",
+    "answer": "2",
+    "type": "hard"
+  },
+  {
+    "context": "Riley grew very suspicious of Jesse because they snuck out every night at 11 PM.",
+    "question": "What will happen to Riley?",
+    "answerA": "lock all the doors and windows at night",
+    "answerB": "be punished",
+    "answerC": "be questioned",
+    "answer": "1",
+    "type": "hard"
+  },
+  {
+    "context": "Jordan was talking to a group of friends. Jordan talked behind Ash's back to fit in.",
+    "question": "What will happen to Jordan?",
+    "answerA": "lose a bet",
+    "answerB": "proud",
+    "answerC": "guilty",
+    "answer": "3",
+    "type": "hard"
+  },
+  {
+    "context": "Robin told Carson that they needed some help with moving to a new home.",
+    "question": "What will Carson want to do next?",
+    "answerA": "buy a cat",
+    "answerB": "move",
+    "answerC": "borrow boxes",
+    "answer": "3",
+    "type": "hard"
+  },
+  {
+    "context": "Kai went camping with friends and ate something made him really ill.",
+    "question": "What will Kai want to do next?",
+    "answerA": "stay in the woods",
+    "answerB": "go to the hospital",
+    "answerC": "play cards",
+    "answer": "2",
+    "type": "hard"
+  },
+  {
+    "context": "Jordan taught art in schools for a living as an art teacher.",
+    "question": "What will Jordan want to do next?",
+    "answerA": "harm others",
+    "answerB": "lie to others",
+    "answerC": "teach others",
+    "answer": "3",
+    "type": "hard"
+  },
+  {
+    "context": "Bailey was mad at work and then told Alex to send the letter.",
+    "question": "How would you describe Bailey?",
+    "answerA": "commanding",
+    "answerB": "careless all day today",
+    "answerC": "under high pressure at work",
+    "answer": "3",
+    "type": "hard"
+  },
+  {
+    "context": "Jordan wanted to do something special for their spouse on Valentines day, so Jordan decided to have a picnic in the park.",
+    "question": "What will Jordan want to do next?",
+    "answerA": "invite their spouse",
+    "answerB": "pack a basket",
+    "answerC": "eat alone",
+    "answer": "2",
+    "type": "hard"
+  },
+  {
+    "context": "Sasha's sister had a headache.  Therefore, they gave their sister some pills.",
+    "question": "Why did Sasha do this?",
+    "answerA": "be a responsible big sister",
+    "answerB": "they need to know something about it",
+    "answerC": "make sure they themselves would be better",
+    "answer": "1",
+    "type": "hard"
+  },
+  {
+    "context": "Skylar joined Sasha's ranks as one of the only employees to never miss a day of work in 5 years.",
+    "question": "What will Sasha want to do next?",
+    "answerA": "congratulate Skylar for failing",
+    "answerB": "try to continue not missing work",
+    "answerC": "do themselves proud",
+    "answer": "2",
+    "type": "hard"
+  },
+  {
+    "context": "Robin put their hand on Addison's wrist to keep Addison from shaking uncontrollably.",
+    "question": "What will Addison want to do next?",
+    "answerA": "good",
+    "answerB": "take their medicine",
+    "answerC": "hit Robin",
+    "answer": "2",
+    "type": "hard"
+  },
+  {
+    "context": "Kendall had two kids they took to Taekwondo classes three times a week.",
+    "question": "What does Kendall need to do before this?",
+    "answerA": "help the kids learn sports",
+    "answerB": "help their kids know how to fight",
+    "answerC": "pay for the uniforms",
+    "answer": "3",
+    "type": "hard"
+  },
+  {
+    "context": "Riley is trying to teach Sasha how to swim underwater.",
+    "question": "How would you describe Riley?",
+    "answerA": "bossy",
+    "answerB": "they had worked hard",
+    "answerC": "helpful",
+    "answer": "3",
+    "type": "hard"
+  },
+  {
+    "context": "Jan was pregnant and she gave birth to a beautiful baby daughter.",
+    "question": "How would you describe Jan?",
+    "answerA": "a mother",
+    "answerB": "exhausted",
+    "answerC": "ready to take a spin class",
+    "answer": "1",
+    "type": "hard"
+  },
+  {
+    "context": "Jan decided to go out so she called up Quinn's friends to hang out together.",
+    "question": "How would Quinn feel as a result?",
+    "answerA": "as normal",
+    "answerB": "Happy",
+    "answerC": "Betrayed",
+    "answer": "3",
+    "type": "hard"
+  },
+  {
+    "context": "Casey was grading a paper that put effort in to the length. They took it into account.",
+    "question": "How would you describe Casey?",
+    "answerA": "likes to see kids learn",
+    "answerB": "a mean person",
+    "answerC": "exhausted",
+    "answer": "1",
+    "type": "hard"
+  },
+  {
+    "context": "Quinn decided for a change so they colored their hair red.",
+    "question": "What does Quinn need to do before this?",
+    "answerA": "Comb his hair",
+    "answerB": "Cut their hair",
+    "answerC": "Buy hair conditioner",
+    "answer": "3",
+    "type": "hard"
+  },
+  {
+    "context": "After seeing them go 95 mph, Aubrey pulled them over for speeding on a 55 mph highway.",
+    "question": "How would Others feel after?",
+    "answerA": "happy about the ticket",
+    "answerB": "more cautious",
+    "answerC": "happy about court",
+    "answer": "2",
+    "type": "hard"
+  },
+  {
+    "context": "Riley talked to their friends at the party and had a good time.",
+    "question": "How would Riley feel as a result?",
+    "answerA": "connected to friends",
+    "answerB": "social",
+    "answerC": "one with friends",
+    "answer": "1",
+    "type": "hard"
+  }
+]
