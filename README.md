@@ -167,6 +167,15 @@ This work is licensed under the [MIT License](https://opensource.org/licenses/MI
 
 ## How to Cite
 ```
+@misc{mousavi2026doeslossoptimizationactually,
+  title={What Does Loss Optimization Actually Teach, If Anything? Knowledge Dynamics in Continual Pre-training of LLMs}, 
+  author={Seyed Mahed Mousavi and Simone Alghisi and Giuseppe Riccardi},
+  year={2026},
+  eprint={2601.03858},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL},
+  url={https://arxiv.org/abs/2601.03858},
+}
 ```
 
 <!-- omit from toc -->
